@@ -180,7 +180,7 @@ export default function Home() {
               </button>
             </form>
           ) : (
-            <p className="text-green-600 font-semibold mt-4">Thanks! You're on the list. 🎉</p>
+            <p className="text-green-600 font-semibold mt-4">Thanks! You&apos;re on the list. 🎉</p>
           )}
         </section>
       </main>
